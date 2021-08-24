@@ -1,1 +1,1 @@
-# wordpress-kubernetes
+A wordpress deployement with Kubernetes
